@@ -1,0 +1,18 @@
+/* section{
+            background-color: blue;
+        } */
+.section-satu {
+  background-color: blue;
+}
+.section-satu,
+h1 {
+  color: white;
+}
+.section-satu,
+.paragraf {
+  color: aqua;
+  font-size: 16px;
+}
+.section-dua {
+  background-color: yellow;
+}
